@@ -23,7 +23,7 @@ const Index = () => {
           {/* Header */}
           <div className="mb-8">
             <h1 className="text-3xl font-bold text-foreground mb-2">
-              Welcome back, Alex! 👋
+              Welcome back, Idrees! 👋
             </h1>
             <p className="text-muted-foreground">
               Here's what's happening with your freelance business today.
